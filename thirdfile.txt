@@ -1,0 +1,1 @@
+We added this new file to see the status of git in every scenario or status of the file
